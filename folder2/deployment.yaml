@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: hennighausen/leo:v41 
+        image: hennighausen/clars:v2 
         ports:
         - containerPort: 80
